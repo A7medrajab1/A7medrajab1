@@ -28,14 +28,15 @@ Skills: Python/c/c++/java/ - Maths - Data Manipulation - Statistics - Probabilit
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
 
-[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-ragab-5364a8269/)
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009257387480)
-[<img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-128.png" alt="X" height="40">](https://x.com/A7medRa94470272)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="Instagram" height="40">](https://www.instagram.com/a7mmed)
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/A7medrajab1)
+<a href="https://www.linkedin.com/in/ahmed-ragab-5364a8269/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png" height="40"></a>
+<a href="https://www.facebook.com/profile.php?id=100009257387480" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png" height="40"></a>
+<a href="https://x.com/A7medRa94470272" target="_blank"><img alt="X" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-128.png" height="40"></a>
+<a href="https://www.instagram.com/a7mmed_ragab_1" target="_blank"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" height="40"></a>
+<a href="https://github.com/A7medrajab1" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png" height="40" /></a>
+
 <br>
 <br>
-<a href="mailto:ahmedelzaiaty2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedelzaiaty2004@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="mailto:ahmedelzaiaty2004@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedelzaiaty2004@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 
 <hr>
  
