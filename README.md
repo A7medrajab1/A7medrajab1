@@ -2,17 +2,15 @@
           <img alt="gif" align="center" src="https://github.com/A7medrajab1/Ahmed-Ragab/blob/main/git.jpg" width=300 height=250/>
     </div>
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Ragab+%F0%9F%91%8B;ML;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
-    </div>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF5733&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Ragab+%F0%9F%91%8B;Machine+Learning+Enthusiast;Data+Science+Explorer;Python+Coder" alt="TypingHeadline" />
+</div>
 
 <h3 align="center">Dedicated Software Engineer interested in Data Science and Machine Learning || problem solver || back-end.</h3>
 
 
-<h6 align="center"><img src="https://komarev.com/ghpvc/?username=A7medrajab1&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
-
-
-
+<h6 align="center"><img src="https://komarev.com/ghpvc/?username=A7medrajab1&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></h6>
+<br>
 
 I`m Interested in Data Science, Machine Learning || Back-end || Problem solving.
 
