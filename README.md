@@ -1,5 +1,5 @@
 <div align=center>
-          <img alt="gif" align="center" src="https://github.com/A7medrajab1/Ahmed-Ragab/blob/main/git.jpg" width=300 height=250/>
+          <img alt="gif" align="center" src="https://github.com/A7medrajab1/A7medrajab1/blob/main/git.jpg" width=300 height=250/>
     </div>
 
 <div align="center">
@@ -39,5 +39,5 @@ Skills: Python/c/c++/java/ - Maths - Data Manipulation - Statistics - Probabilit
 
 <hr>
  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/A7medrajab1/Ahmed-Ragab/blob/main/Ahmed.svg">
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/A7medrajab1/A7medrajab1/blob/main/Ahmed.svg">
 
