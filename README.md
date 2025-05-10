@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=FF5733&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Ragab+%F0%9F%91%8B;Machine+Learning+Enthusiast;Data+Science+Explorer;Python+Coder" alt="TypingHeadline" />
 </div>
-<h3 align="center">Dedicated Software Engineer interested in Data Science and Machine Learning || problem solver || back-end.</h3>
+<h3 align="center">Dedicated Software Engineer interested in Data Science, Machine Learning, and NLP | Problem Solving | Back-End.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7medrajab1&label=Profile%20views&color=0e75b6&style=flat" alt="a7medrajab1" /> </p>
 
