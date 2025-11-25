@@ -61,6 +61,7 @@
 ### 🔧 Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
@@ -114,7 +115,8 @@
           <b>→</b> Deep Learning with PyTorch<br>
           <b>→</b> Transformer Architecture<br>
           <b>→</b> Cloud ML Deployment (AWS/GCP)<br>
-          <b>→</b> MLOps & Model Monitoring
+          <b>→</b> MLOps & Model Monitoring<br>
+          <b>→</b> Docker & Containerization
         </p>
       </td>
       <td align="center" width="50%" style="border: none;">
@@ -124,7 +126,8 @@
           <b>→</b> NLP Text Classification System<br>
           <b>→</b> Computer Vision Projects<br>
           <b>→</b> Open Source ML Libraries<br>
-          <b>→</b> Real-time ML Applications
+          <b>→</b> Real-time ML Applications<br>
+          <b>→</b> Dockerized ML Pipelines
         </p>
       </td>
     </tr>
